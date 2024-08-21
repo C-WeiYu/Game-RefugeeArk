@@ -1,5 +1,6 @@
 # Refugee Ark
-game made by p5js
+In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hope that everyone can gain a better understanding of and pay more attention to this matter. Therefore, we have created a game about the refugee issue using p5.js.
+
 
 # Design
 <div align="center">
