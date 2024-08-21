@@ -4,8 +4,8 @@ In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hop
 
 ## Contents
 
-1. [Intro](#Introduce(Click-Pic-to-Get-More))
-2. [Demo](#Game-Demo(Click-Pic-to-Get-More))
+1. [Intro](#Introduce-Click-Pic-to-Get-More-)
+2. [Demo](#Game-Demo-Click-Pic-to-Get-More-)
 3. [Steps to Play](#How-to-Play)
 4. [Contributors](#Contributors)
 
