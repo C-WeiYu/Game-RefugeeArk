@@ -1,7 +1,13 @@
 # Refugee Ark
+
 In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hope that everyone can gain a better understanding of and pay more attention to this matter. Therefore, we have created a game about the refugee issue using p5.js.
 
-# Introduce
+## Contents
+
+1. [Introduce](#Intro)
+2. 
+
+## Intro
 <div align="center">
    <a href="https://youtu.be/BahdQd2NUcU">
      <img src="https://img.youtube.com/vi/BahdQd2NUcU/maxresdefault.jpg" 
@@ -10,7 +16,7 @@ In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hop
    </a>
 </div>
 
-# GAME DEMO
+## GAME DEMO
 <div align="center">
    <a href="https://www.youtube.com/watch?v=Nqbug47p0Ho">
      <img src="https://img.youtube.com/vi/Nqbug47p0Ho/maxresdefault.jpg"
@@ -19,7 +25,7 @@ In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hop
    </a>
 </div>
 
-# How to Play
+## How to Play
 1. Install [Node.js](https://nodejs.org/zh-tw) and git
 2. Clone the Project by git
 ```
@@ -33,7 +39,7 @@ npm start
 ```
 5. Play the Game on Web (http://localhost:3000)
 
-# Contributors
+## Contributors
 |組員|系級|學號|工作分配|github|
 |-|-|-|-|-|
 |陳湘宜|廣告四|106405176| 人物設計、PPT | |
