@@ -1,27 +1,37 @@
 # Refugee Ark
 In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hope that everyone can gain a better understanding of and pay more attention to this matter. Therefore, we have created a game about the refugee issue using p5.js.
 
-
-# Design
+# Introduce
 <div align="center">
    <a href="https://youtu.be/BahdQd2NUcU">
      <img src="https://img.youtube.com/vi/BahdQd2NUcU/maxresdefault.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
+      width="50%"
+      alt="Introduce" >
    </a>
 </div>
 
 # GAME DEMO
-
 <div align="center">
    <a href="https://www.youtube.com/watch?v=Nqbug47p0Ho">
-     <img src="https://img.youtube.com/vi/Nqbug47p0Ho/maxresdefault.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
+     <img src="https://img.youtube.com/vi/Nqbug47p0Ho/maxresdefault.jpg"
+     width="50%"
+     alt="Demo">
    </a>
 </div>
 
-<!-- [![Everything Is AWESOME](https://img.youtube.com/vi/Nqbug47p0Ho/0.jpg)](https://www.youtube.com/watch?v=Nqbug47p0Ho) -->
+# How to Play
+1. Install [Node.js](https://nodejs.org/zh-tw) and git
+2. Clone the Project by git
+```
+git clone https://github.com/C-WeiYu/Game-RefugeeArk.git
+```
+3. Open the Project
+4. Install packages and Run
+```
+npm install
+npm start
+```
+5. Play the Game on Web (http://localhost:3000)
 
 # Contributors
 |組員|系級|學號|工作分配|github|
