@@ -4,10 +4,12 @@ In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hop
 
 ## Contents
 
-1. [Introduce](#Intro)
-2. 
+1. [Intro](#Introduce(Click Pic to Get More))
+2. [Demo](#Game-Demo(Click Pic to Get More))
+3. [Steps to Play](#How-to-Play)
+4. [Contributors](#Contributors)
 
-## Intro
+## Introduce(Click Pic to Get More)
 <div align="center">
    <a href="https://youtu.be/BahdQd2NUcU">
      <img src="https://img.youtube.com/vi/BahdQd2NUcU/maxresdefault.jpg" 
@@ -16,7 +18,7 @@ In 2021, the war in Afghanistan ended, leading to a global refugee issue. We hop
    </a>
 </div>
 
-## GAME DEMO
+## Game Demo(Click Pic to Get More)
 <div align="center">
    <a href="https://www.youtube.com/watch?v=Nqbug47p0Ho">
      <img src="https://img.youtube.com/vi/Nqbug47p0Ho/maxresdefault.jpg"
